@@ -17,6 +17,9 @@ jupyter notebook
 ```
 # Tomography Assignment 4
 
+## Contents
+> Only `Assigment_4.ipyb`
+
 ## Objective
 
 Build a lightweight machine learning classifier that automatically identifies the type of single-qubit noise channel from its mathematical representation. Specifically, we distinguish between:
