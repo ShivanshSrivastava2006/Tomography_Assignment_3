@@ -13,3 +13,4 @@ for _ in range(10):
     optimizer.zero_grad()
 
 torch.save(model.state_dict(), "../outputs/model.pt")
+
