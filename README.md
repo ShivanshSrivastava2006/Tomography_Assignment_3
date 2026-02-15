@@ -1,4 +1,4 @@
-# QML Tomography using Clifford Group Generators
+# QML Tomography
 
 ## Overview
 
