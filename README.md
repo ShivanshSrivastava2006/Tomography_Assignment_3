@@ -163,18 +163,6 @@ All numerical results are generated reproducibly from the provided code:
 - **Results**: Formal LaTeX tables and plots generated
 - **Future Work**: See suggestions above
 
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@repository{shivansh2026qml,
-  author = {Shivansh Srivastava},
-  title = {QML Tomography using Clifford Group Generators},
-  year = {2026},
-  url = {https://github.com/ShivanshSrivastava2006/QML_Tomography_QCG}
-}
-```
 
 ## Contact & Support
 
